@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "4l3noqOp3zbeEQHOPtfva7",
+    "name" : "Admin_CC",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-06-18T17:51:34.808Z",
+  "objectRefs" : [ ]
+}
